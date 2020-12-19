@@ -1,0 +1,246 @@
+﻿
+[Header]
+ProjectFileVersion = 1.1
+[General]
+Program name = Minecraft Server
+Program version = 1.1
+Windows 2000 = 0
+Windows XP = 0
+Windows Server 2003 = 0
+Windows Vista = 0
+Windows Server 2008 = 0
+Windows 7 = 1
+Windows 8 = 0
+Windows 10 = 1
+Windows Server 2016 = 0
+DoNotCheckOS = 0
+Company name = 
+Website = 
+SFA = 0
+DFA = 0
+Comp = 1
+[Graphics]
+Wizard image = <main>
+Header image = <main>
+Show Label = 1
+VisualStylesEnabled = 1
+[Files]
+Installation path = <ProgramFiles>\<Company>\<AppName>\
+Autcip = 1
+[Uninstall]
+Vwau = 0
+Website = https://
+Include uninstaller = 1
+Uninstaller filename = Uninstall
+UseCustomDisplayIcon = 0
+CustomDisplayIcon = <InstallPath>\
+[Licence]
+Licence dialog = 0
+[Finish]
+Sart program = 0
+Reboot computer = 0
+Program = <InstallPath>\
+ProgramArguments = 
+[Shortcuts]
+Allowtc = 0
+Shortcut path = <Company>\<AppName>\
+[Serialoptions]
+Allows = 0
+Number = 1000
+Mask = #####-#####-#####-#####
+[SplashScreen]
+Image = 
+Sound = 
+Time = 2
+PlaySound = 0
+Allow = 0
+[Build]
+File = 
+SetupIconPath = ..\icons\ancient.ico
+UninstallIconPath = ..\icons\ancient.ico
+CompressionMethod = 0
+CompressionLevel = 2
+[Updater]
+Allow = 0
+1 = <AppName>
+2 = <AppVersion>
+3 = http://
+4 = http://
+5 = http://
+6 = Update
+Language = 0
+RunProg = 
+RunProgs = 0
+Execdlls = 0
+[Languages]
+[Files/Dirs]
+D:\Minecraft Server\Server\
+N/A
+[Folder]
+[Licence_Begin]
+27217
+{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\fs20 By using this Minecraft Server, you agree with Minecraft's EULA, and if you use the Java Install you also agree with Oracle's Java License :\par
+\par
+MINECRAFT END USER LICENSE AGREEMENT\par
+In order to protect Minecraft (our "Game") and the members of our community, we need these end user license terms to set out some rules for downloading and using our Game. This license is a legal agreement between you and us (Mojang AB) and describes the terms and conditions for using the Game. We don't like reading license documents any more than you do, so we have tried to keep this as short as possible. If you break these rules we may stop you from using our Game. If we think it is necessary, we might even have to ask our lawyers to help out.\par
+\par
+If you buy, download, use or play our Game, you are agreeing to stick to the rules of these end user license agreement ("EULA") terms. If you don't want to or can't agree to these rules, then you must not buy, download, use or play our Game. This EULA incorporates the the terms of use for the mojang.com website ("Account Terms"), our brand and asset usage guidelines, and our our privacy policy. By agreeing to this EULA you also agree to all of the terms of the foregoing documents, so please read through them carefully.\par
+\par
+ONE MAJOR RULE\par
+The one major rule is that you must not distribute anything we've made unless we specifically agree to it. By "distribute anything we've made" what we mean is:\par
+\par
+give copies of our Game to anyone else;\par
+make commercial use of anything we've made;\par
+try to make money from anything we've made; or\par
+let other people get access to anything we've made in a way that is unfair or unreasonable;\par
+unless we specifically agree to it. And so that we are crystal clear, "the Game" or "what we have made" includes, but is not limited to, the client or the server software for our Game and includes Minecraft and Minecraft: Java Edition on all platforms. It also includes updates, patches, downloadable content, add-ons, or modified versions of a Game, part of those things, or anything else we've made.\par
+\par
+Otherwise we are quite relaxed about what you do - in fact we really encourage you to do cool stuff - but just don't do those things that we say you can't.\par
+\par
+USING OUR GAME\par
+You have been granted a license to the Game so you can play and use it, yourself, on your devices.\par
+\par
+Below we also give you limited rights to do other things but we have to draw a line somewhere or else people will go too far. If you wish to make something pertaining to anything we've made we're humbled, but please make sure that it can't be interpreted as being official and that it complies with this EULA and the brand and asset usage guidelines and above all do not make commercial use of anything we've made.\par
+\par
+The license and permission we give you to use and play our Game can be revoked if you break any of the terms of this EULA.\par
+\par
+When you buy our Game, you receive a license that gives you permission to install the Game on your own personal device and use and play it on that device as set out in this EULA. This permission is personal to you, so you are not allowed to distribute the Game (or any part of it) to anyone else. This also means you cannot sell or rent the Game, or make it available for access to other people and you cannot pass on or resell any license keys. You may however give gift codes that have been bought through our official gift code system. This is important to help us stop piracy and fraud and to protect our Game. It is also important to prevent members of our community from buying pirated versions of our Game or fraudulent license keys - which we may cancel, such as in the case of fraud.\par
+\par
+If you've bought the Game, you may play around with it and modify it by adding modifications, tools, or plugins, which we will refer to collectively as "Mods." By "Mods," we mean something original that you or someone else created that doesn't contain a substantial part of our copyrightable code or content. When you combine your Mod with the Minecraft software, we will call that combination a "Modded Version" of the Game. We have the final say on what constitutes a Mod and what doesn't. You may not distribute any Modded Versions of our Game or software, and we'd appreciate it if you didn't use Mods for griefing. Basically, Mods are okay to distribute; hacked versions or Modded Versions of the Game client or server software are not okay to distribute.\par
+\par
+Within reason you're free to do whatever you want with screenshots and videos of the Game. By "within reason" we mean that you can't make any commercial use of them or do things that are unfair or adversely affect our rights unless we've specifically said it's okay in this EULA, allowed it through the Brand and Asset Usage Guidelines, or provided for it in a specific agreement with you. If you upload videos of the game to video sharing and streaming sites you are however allowed to put ads on them. Also, don't just rip art resources and pass them around, that's no fun.\par
+\par
+Essentially the simple rule is do not make commercial use of anything we've made unless we've specifically said it's okay. Oh and if the law expressly allows it, such as under a "fair use" or fair dealing" doctrine then that's ok too - but only to the extent that the law applicable to you says so.\par
+\par
+In order to ensure the integrity of the Game, we need all Game downloads and updates to come from an authorized source. It's also important for us that 3rd party tools/services don't seem "official" as we can't guarantee their quality. It's part of the responsibility we have to the customers of Minecraft. Make sure that you read through our brand and asset usage guidelines too.\par
+\par
+OWNERSHIP OF OUR GAME AND OTHER THINGS\par
+Although we license you permission to install on your device and play our Game, we are still the owners of it. We are also the owners of our brands and any content contained in the Game. Therefore, when you pay for our Game, you are buying a license to play / use our Game in accordance with this EULA - you are not buying the Game itself. The only permissions you have in connection with the Game and your installation of it are the permissions set out in this EULA.\par
+\par
+Any Mods you create for the Game from scratch belong to you (including pre-run Mods and in-memory Mods) and you can do whatever you want with them, as long as you don't sell them for money / try to make money from them and so long as you don't distribute Modded Versions of the Game. Remember that a Mod means something that is your original work and that does not contain a substantial part of our code or content. You only own what you created; you do not own our code or content.\par
+\par
+CONTENT\par
+If you make any content available on or through our Game, you agree to give us permission to use, copy, modify, adapt, distribute, and publicly display that content. This permission is irrevocable, and you also agree to let us permit other people to use, copy, modify, adapt, distribute, and publicly display your content. You are not giving up your ownership rights in your content, you are just giving us and other users permission to use it. For example, we may need to copy, reformat, and distribute content that you post on our website so others can read it. If you don't want to give us these permissions, do not make content available on or through our Game. Please think carefully before you make any content available, because it may be made public and might even be used by other people in a way you don't like.\par
+\par
+If you are going to make something available on or through our Game, it must not be offensive to people or illegal, it must be honest, and it must be your own creation. Some examples of the types of things you must not make available using our Game include: posts that include racist or homophobic language; posts that are bullying or trolling; posts that are offensive or that damage our or another person's reputation; posts that include porn or someone else's creation or image; or posts that impersonate a moderator or try to trick or exploit people.\par
+\par
+Any content you make available on our Game must also be your creation or you must have permission or the legal right to do it. You must not and you agree that you will not make any content available, using the Game that infringes the rights of others.\par
+\par
+We reserve the right to take down any content in our discretion.\par
+\par
+Please watch out if you are talking to people in our Game. It is hard for either you or us to know for sure that what people say is true, or even if people are really who they say they are. You should think twice about giving out information about yourself.\par
+\par
+UPDATES\par
+We might make upgrades, updates or patches (we call them all "updates") available from time to time, but we don't have to. We are also not obliged to provide ongoing support or maintenance of any Game. Of course, we hope to continue to release new updates for our Game, we just can't guarantee that we will do so. With updates come changes that might not work well with other software, such as Mods. This is unfortunate, but it is something we don't take responsibility for. If that is the case, try running an older version.\par
+\par
+LIABILITY AND GOVERNING LAW\par
+\par
+The terms of this EULA do not affect any legal (statutory) rights that you may have under the law that applies to you for the Game. You might have certain rights which the law that applies to you says cannot be excluded. Nothing we say in these terms will affect those legal rights, even if we say something which sounds like it contradicts your legal rights. That's what we mean when we say "subject to applicable law".\par
+\par
+SUBJECT TO APPLICABLE LAW, WHEN YOU GET A COPY OF OUR GAME, WE PROVIDE IT "'AS IS"'. UPDATES ARE ALSO PROVIDED "'AS IS"'. THIS MEANS THAT WE ARE NOT MAKING ANY PROMISES TO YOU ABOUT THE STANDARD OR QUALITY OF OUR GAME, OR THAT OUR GAME WILL BE UNINTERRUPTED OR ERROR FREE. WE ARE NOT RESPONSIBLE FOR ANY LOSS OR DAMAGE THAT IT MAY CAUSE. YOU BEAR THE ENTIRE RISK AS TO ITS QUALITY AND PERFORMANCE. YOU HAVE TO ACCEPT THAT WE MAY RELEASE GAMES WELL BEFORE THEY ARE COMPLETE AND SO THEY MAY (AND OFTEN WILL) HAVE BUGS -BUT WE PREFER TO RELEASE THESE FEATURES EARLY THAN MAKE YOU WAIT FOR PERFECTION. IF YOU WOULD LIKE TO NOTIFY US ABOUT A POTENTIAL BUG, WE HAVE A SITE FOR THAT HERE.\par
+\par
+The laws of Washington State govern the interpretation of this EULA and claims for its breach, regardless of conflict of laws principles. The laws of your country govern all other claims and disputes (including consumer protection, unfair competition, and tort claims, and disputes relating to our Game, or our Website), regardless of conflict of laws principles.\par
+\par
+TERMINATION\par
+If we want we can terminate this EULA if you breach any of the terms. You can terminate it too, at any time; all you have to do is uninstall the Game from your device and the EULA will be terminated. If the EULA is terminated, you will no longer have any of the rights to the Game given in this license. You do still have the right to things you have created yourself with the game of course. The paragraphs about "Ownership of Our Game", "Our Liability" and "General Stuff" will continue to apply even after the EULA is terminated.\par
+\par
+GENERAL STUFF\par
+Your local law may give you rights that this EULA cannot change; if so, this EULA applies as far as the law allows. Nothing in this license limits our liability for death or bodily injury resulting from our negligence or fraudulent misrepresentations.\par
+\par
+We may change this EULA from time to time, if we have reason to, such as changes to our games, our practices, or our legal obligation. But those changes will be effective only to the extent that they can legally apply. For example if you use the Game only in single-player mode and don't use the updates we make available then the old EULA applies but if you do use the updates or use parts of the game that rely on our providing ongoing online services then the new EULA will apply. In that case we'll inform you of the change before it takes effect, either by posting a notice on our Website or by other reasonable means. We're not going to be unfair about this though - but sometimes the law changes or someone does something that affects other users of the Game and we therefore need to put a lid on it.\par
+\par
+If you come to us with a suggestion for any one of our Websites or Games, that suggestion is made for free and we have no obligation to accept or consider it. This means we can use or not use your suggestion in any way we want and we don't have to pay you for it. If you think you have a suggestion that we would be willing to pay you for, please do not submit your suggestion unless you have first told us you expect to be paid and we have responded in writing by asking you to submit the suggestion.\par
+\par
+Oracle Technology Network License Agreement for Oracle Java SE\par
+Oracle is willing to authorize Your access to software associated with this License Agreement (\ldblquote Agreement\rdblquote ) only upon the condition that You accept that this Agreement governs Your use of the software. By selecting the "Accept License Agreement" button or box (or the equivalent) or installing or using the Programs, You indicate Your acceptance of this Agreement and Your agreement, as an authorized representative of Your company or organization (if being acquired for use by an entity) or as an individual, to comply with the license terms that apply to the software that You wish to download and access. If You are not willing to be bound by this Agreement, do not select the \ldblquote Accept License Agreement\rdblquote  button or box (or the equivalent) and do not download or access the software.\par
+\par
+Definitions"Oracle" refers to Oracle America, Inc.\par
+\par
+"You" and "Your" refers to (a) a company or organization (\ldblquote Entity\rdblquote ) accessing the Programs, if use of the Programs will be on behalf of such Entity; or (b) an individual accessing the Programs (\ldblquote Individual\rdblquote ), if use of the Programs will not be on behalf of an Entity.\par
+\par
+\ldblquote Contractors\rdblquote  refers to Your agents and contractors (including, without limitation, outsourcers).\par
+\par
+\ldblquote Development Use\rdblquote  refers to Your internal use of the Programs to develop, test, prototype and demonstrate Your Applications. For purposes of clarity, the \ldblquote to develop\rdblquote  grant includes using the Programs to run profilers, debuggers and Integrated Development Environments (IDE Tools) where the primary purpose of the IDE Tools is profiling, debugging and source code editing Applications.\par
+\par
+"Program(s)" refers to Oracle software provided by Oracle pursuant to this Agreement and any updates, error corrections, and/or Program Documentation provided by Oracle.\par
+\par
+\ldblquote Program Documentation\rdblquote  refers to the Licensing Information User Manual for Oracle Java SE for the applicable version accessible at https://www.oracle.com/java/technologies/javase-documentation.html and other documentation provided by Oracle with the Programs or accessible at https://docs.oracle.com/en/java.\par
+\par
+\ldblquote Separate Terms\rdblquote  refers to separate license terms that are specified in the Program Documentation, readmes or notice files and that apply to Separately Licensed Third Party Technology.\par
+\par
+\ldblquote Separately Licensed Third Party Technology\rdblquote  refers to third party technology that is licensed under Separate Terms and not under the terms of this Agreement.\par
+\par
+\ldblquote Application\rdblquote  refers to applications intended to run on the Java Platform, Standard Edition.\par
+\par
+\ldblquote Personal Use\rdblquote  refers to an Individual's use of the Programs solely on a desktop or laptop computer under such Individual's control only to run Personal Applications.\par
+\par
+\ldblquote Personal Applications\rdblquote  refers to Applications designed for individual personal use only, such as games or personal productivity tools.\par
+\par
+\ldblquote Oracle Approved Product Use\rdblquote  refers to Your internal use of the Programs only to run: (a) the product(s) identified as Schedule A Products at https://java.com/oaa; and/or (b) software Applications developed using the products identified as Schedule B Products at java.com/oaa by an Oracle authorized licensee of such Schedule B Products. If You are unsure whether the Application You intend to run using the Programs is developed using a Schedule B Product, please contact your Application provider.\par
+\par
+\ldblquote Oracle Cloud Infrastructure Use (\ldblquote OCI Use\rdblquote )\rdblquote  refers to Your use of the Programs on Oracle's Cloud Infrastructure with the Oracle Cloud Infrastructure products identified in the Oracle PaaS and IaaS Universal Credits Service Descriptions available at http://oracle.com/contracts during the period in which You maintain a subscription for such Oracle Cloud Infrastructure products.\par
+\par
+License Rights and Restrictions Oracle grants You a nonexclusive, nontransferable, limited license to use the Programs, subject to the restrictions stated in this Agreement and Program Documentation, only for:\par
+\par
+(i)     Personal Use,\par
+(ii)    Development Use,\par
+(iii)   Oracle Approved Product Use, and/or\par
+(iv)   Oracle Cloud Infrastructure Use.\par
+\par
+You may allow Your Contractor(s) to use the Programs, provided they are acting on Your behalf to exercise license rights granted in this Agreement and further provided that You are responsible for their compliance with this Agreement in such use. You will have a written agreement with Your Contractor(s) that strictly limits their right to use the Programs and that otherwise protects Oracle's intellectual property rights to the same extent as this Agreement. You may make copies of the Programs to the extent reasonably necessary to exercise the license rights granted in this Agreement.\par
+You may not:\par
+\par
+remove or modify any Program markings or any notice of Oracle's or a licensor's proprietary rights;\par
+make the Programs available in any manner to any third party (other than Contractors acting on Your behalf as set forth in this Agreement);\par
+assign this Agreement or distribute, give, or transfer the Programs or an interest in them to any third party, except as expressly permitted in this Agreement for Contractors (the foregoing shall not be construed to limit the rights You may otherwise have with respect to Separately Licensed Third Party Technology);\par
+cause or permit reverse engineering (unless required by law for interoperability), disassembly or decompilation of the Programs; and\par
+create, modify, or change the behavior of, classes, interfaces, or subpackages that are in any way identified as "java", "javax", "sun", \ldblquote oracle\rdblquote  or similar convention as specified by Oracle in any naming convention designation.\par
+The Programs may contain source code that, unless expressly licensed in this Agreement for other purposes (for example, licensed under an open source license), is provided solely for reference purposes pursuant to the terms of this Agreement and may not be modified.\par
+\par
+All rights not expressly granted in this Agreement are reserved by Oracle. If You want to use the Programs for any purpose other than as expressly permitted under this Agreement, You must obtain from Oracle or an Oracle reseller a valid Program license under a separate agreement permitting such use.\par
+\par
+OwnershipOracle or its licensors retain all ownership and intellectual property rights to the Programs.\par
+\par
+Third-Party Technology The Programs may contain or require the use of third party technology that is provided with the Programs. Oracle may provide certain notices to You in Program Documentation, readmes or notice files in connection with such third party technology. Third party technology will be licensed to You either under the terms of this Agreement or, if specified in the Program Documentation, readmes or notice files, under Separate Terms. Your rights to use Separately Licensed Third Party Technology under Separate Terms are not restricted in any way by this Agreement. However, for clarity, notwithstanding the existence of a notice, third party technology that is not Separately Licensed Third Party Technology shall be deemed part of the Programs and is licensed to You under the terms of this Agreement.\par
+\par
+Source Code for Open Source SoftwareFor software that You receive from Oracle in binary form that is licensed under an open source license that gives You the right to receive the source code for that binary, You can obtain a copy of the applicable source code from https://oss.oracle.com/sources/ or http://www.oracle.com/goto/opensourcecode. If the source code for such software was not provided to You with the binary, You can also receive a copy of the source code on physical media by submitting a written request pursuant to the instructions in the "Written Offer for Source Code" section of the latter website.\par
+\par
+Export Controls Export laws and regulations of the United States and any other relevant local export laws and regulations apply to the Programs. You agree that such export control laws govern Your use of the Programs (including technical data) and any services deliverables provided under this agreement, and You agree to comply with all such export laws and regulations (including "deemed export" and "deemed re-export" regulations). You agree that no data, information, program and/or materials resulting from Programs or services (or direct products thereof) will be exported, directly or indirectly, in violation of these laws, or will be used for any purpose prohibited by these laws including, without limitation, nuclear, chemical, or biological weapons proliferation, or development of missile technology. Accordingly, You confirm:\par
+\par
+You will not download, provide, make available or otherwise export or re-export the Programs, directly or indirectly, to countries prohibited by applicable laws and regulations nor to citizens, nationals or residents of those countries.\par
+You are not listed on the United States Department of Treasury lists of Specially Designated Nationals and Blocked Persons, Specially Designated Terrorists, and Specially Designated Narcotic Traffickers, nor are You listed on the United States Department of Commerce Table of Denial Orders.\par
+You will not download or otherwise export or re-export the Programs, directly or indirectly, to persons on the above mentioned lists.\par
+You will not use the Programs for, and will not allow the Programs to be used for, any purposes prohibited by applicable law, including, without limitation, for the development, design, manufacture or production of nuclear, chemical or biological weapons of mass destruction.\par
+Information CollectionThe Programs' installation and/or update processes, if any, may transmit a limited amount of data to Oracle or its service provider about those processes to help Oracle understand and optimize them. Oracle does not associate the data with personally identifiable information. Refer to Oracle's Privacy Policy at www.oracle.com/privacy.\par
+\par
+Disclaimer of Warranties; Limitation of Liability THE PROGRAMS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ORACLE FURTHER DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.\par
+\par
+IN NO EVENT WILL ORACLE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA OR DATA USE, INCURRED BY YOU OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF ORACLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ORACLE'S ENTIRE LIABILITY FOR DAMAGES UNDER THIS AGREEMENT SHALL IN NO EVENT EXCEED ONE THOUSAND DOLLARS (U.S. $1,000).\par
+\par
+No Technical Support Oracle does not provide technical support, phone support, or updates under this Agreement.\par
+\par
+Audit; Termination Oracle may audit an Entity's use of the Programs. You may terminate this Agreement by destroying all copies of the Programs. This Agreement shall automatically terminate without notice if You fail to comply with any of the terms of this Agreement, in which case You shall promptly destroy all copies of the Programs.\par
+\par
+Relationship Between the Parties Oracle is an independent contractor and we agree that no partnership, joint venture, or agency relationship exists between us. We each will be responsible for paying our own employees, including employment related taxes and insurance. Nothing in this Agreement shall be construed to limit either party's right to independently develop or distribute software that is functionally similar to the other party's products, so long as proprietary information of the other party is not included in such software.\par
+\par
+Entire Agreement; Governing Law You agree that this Agreement is the complete agreement for the Programs and this Agreement supersedes all prior or contemporaneous agreements or representations, including any clickwrap, shrinkwrap or similar licenses, or license agreements for prior versions of the Programs. This Agreement may not be modified and the rights and restrictions may not be altered or waived except in a writing signed by authorized representatives of You and of Oracle. If any term of this Agreement is found to be invalid or unenforceable, the remaining provisions will remain effective.\par
+\par
+This Agreement is governed by the substantive and procedural laws of the State of California, USA, and You and Oracle agree to submit to the exclusive jurisdiction of, and venue in, the courts of San Francisco or Santa Clara counties in California in any dispute arising out of or relating to this Agreement.\par
+\par
+Notices Should You have any questions concerning this Agreement, or if You desire to contact Oracle for any reason, please write:\par
+\par
+Oracle America, Inc.\par
+500 Oracle Parkway\par
+Redwood City, CA 94065\par
+\par
+Oracle Employees: Under no circumstances are Oracle employees authorized to download software for the purpose of distributing it to customers. Oracle products are available to Oracle employees for internal use or demonstration purposes only. In keeping with Oracle's trade compliance obligations under U.S. and applicable multilateral law, an Oracle employee's failure to comply with this policy could result in disciplinary action up to and including termination.\par
+}
+ [Licence_End]
+[Registry]
+[Variables]
+[SCs]
+[IFP_End]
+[Serials]
+[Serials_End]
+[Commands]
